@@ -1,7 +1,7 @@
 # ARIFISTIFIK
-![arifistifik](arifistifik.jpeg)
+![arifistifik](arifistifik.png)
 
-# CONTACT BOT OFFICIAL
+# BELAJAR BOT LINE
 
 #BELAJAR SCRIPT DASAR BOT
 
